@@ -128,3 +128,6 @@ C:\Users\hamui\source\repos\Trabajo_Final_das\Trabajo_Final_das\obj\Debug\net8.0
 C:\Users\hamui\source\repos\Trabajo_Final_das\Trabajo_Final_das\obj\Debug\net8.0-windows\Trabajo_Final_das.pdb
 C:\Users\hamui\source\repos\Trabajo_Final_das\Trabajo_Final_das\obj\Debug\net8.0-windows\Trabajo_Final_das.genruntimeconfig.cache
 C:\Users\hamui\source\repos\Trabajo_Final_das\Trabajo_Final_das\obj\Debug\net8.0-windows\ref\Trabajo_Final_das.dll
+C:\Users\hamui\source\repos\Trabajo_Final_das\Trabajo_Final_das\obj\Debug\net8.0-windows\Trabajo_Final_das.sourcelink.json
+C:\Users\hamui\source\repos\Trabajo_Final_das\Trabajo_Final_das\obj\Debug\net8.0-windows\Trabajo_Final_das.Formulario_alta_producto.resources
+C:\Users\hamui\source\repos\Trabajo_Final_das\Trabajo_Final_das\obj\Debug\net8.0-windows\Trabajo_Final_das.View.Formulario_Eliminar_Modificar_productos.resources

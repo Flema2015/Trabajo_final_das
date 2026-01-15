@@ -75,12 +75,14 @@
             eliminarProductoToolStripMenuItem.Name = "eliminarProductoToolStripMenuItem";
             eliminarProductoToolStripMenuItem.Size = new Size(274, 24);
             eliminarProductoToolStripMenuItem.Text = "Eliminar Productos";
+            eliminarProductoToolStripMenuItem.Click += eliminarProductoToolStripMenuItem_Click;
             // 
             // modificarProductoToolStripMenuItem
             // 
             modificarProductoToolStripMenuItem.Name = "modificarProductoToolStripMenuItem";
             modificarProductoToolStripMenuItem.Size = new Size(274, 24);
             modificarProductoToolStripMenuItem.Text = "Modificar Productos";
+            modificarProductoToolStripMenuItem.Click += modificarProductoToolStripMenuItem_Click;
             // 
             // disponibilidadDeProductosToolStripMenuItem
             // 
@@ -157,6 +159,7 @@
             MainMenuStrip = menuStrip1;
             Name = "Form1";
             Text = "Form1";
+            Load += Form1_Load;
             menuStrip1.ResumeLayout(false);
             menuStrip1.PerformLayout();
             ResumeLayout(false);

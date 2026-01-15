@@ -5,7 +5,7 @@ namespace Trabajo_Final_das.Models;
 
 public partial class Producto
 {
-    public string IdProducto { get; set; } = null!;
+    public string Codigo_producto { get; set; }
 
     public string? Nombre { get; set; }
 

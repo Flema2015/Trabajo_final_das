@@ -22,6 +22,10 @@ namespace Trabajo_Final_das.Controller
             return contexto.Productos.ToList();
         }
 
+        public Producto Obtener_productos_por_id(int id_producto)
+        {
+            return contexto.Productos.Find(id_producto);
+        }
       
         public void Crear_producto(Producto producto)
         {
@@ -29,15 +33,20 @@ namespace Trabajo_Final_das.Controller
             contexto.SaveChanges();
         }
 
-        public void Eliminar_producto(Producto producto)
+        public void Eliminar_producto(int producto_id)
         {
-            contexto.Productos.Remove(producto);
-            contexto.SaveChanges();
+            var producto = contexto.Productos.Find(producto_id);
+            if (producto != null)
+            {
+                contexto.Productos.Remove(producto);
+                contexto.SaveChanges();
+
+            }
         }
 
         public void Modificar_producto(Producto producto)
         {
-            var producto_a_modificar = contexto.Productos.Find(producto.IdProducto);
+            var producto_a_modificar = contexto.Productos.Find(producto.Codigo_producto);
             if (producto_a_modificar != null)
             {
                 producto_a_modificar.Nombre = producto.Nombre;

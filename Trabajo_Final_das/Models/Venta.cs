@@ -11,11 +11,15 @@ public partial class Venta
 
     public int? MetodosDePago { get; set; }
 
-    public string? IdProducto { get; set; }
+    public string codigo_producto { get; set; }
 
     public int? IdCliente { get; set; }
 
     public virtual Cliente? IdClienteNavigation { get; set; }
 
     public virtual Producto? IdProductoNavigation { get; set; }
+
+    public string Sucursal { get; set; }
+
+    public decimal Total_final { get; set; }
 }

@@ -45,11 +45,11 @@ public partial class TrabajoFinalDasContext : DbContext
 
         modelBuilder.Entity<Producto>(entity =>
         {
-            entity.HasKey(e => e.IdProducto);
+            entity.HasKey(e => e.Codigo_producto);
 
             entity.ToTable("Producto");
 
-            entity.Property(e => e.IdProducto)
+            entity.Property(e => e.Codigo_producto)
                 .HasMaxLength(50)
                 .IsUnicode(false)
                 .HasColumnName("ID_producto");
@@ -75,7 +75,7 @@ public partial class TrabajoFinalDasContext : DbContext
                 .HasColumnType("datetime")
                 .HasColumnName("Fecha_venta");
             entity.Property(e => e.IdCliente).HasColumnName("ID_cliente");
-            entity.Property(e => e.IdProducto)
+            entity.Property(e => e.codigo_producto)
                 .HasMaxLength(50)
                 .IsUnicode(false)
                 .HasColumnName("Id_producto");
@@ -86,8 +86,10 @@ public partial class TrabajoFinalDasContext : DbContext
                 .HasConstraintName("FK_Ventas_Clientes");
 
             entity.HasOne(d => d.IdProductoNavigation).WithMany(p => p.Venta)
-                .HasForeignKey(d => d.IdProducto)
+                .HasForeignKey(d => d.codigo_producto)
                 .HasConstraintName("FK_Ventas_Producto");
+
+
         });
 
         OnModelCreatingPartial(modelBuilder);
