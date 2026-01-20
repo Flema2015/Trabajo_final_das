@@ -7,7 +7,13 @@
     <Compile Update="View\Formulario_alta_producto.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="View\Formulario_Categorias.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="View\Formulario_Eliminar_Modificar_productos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Productos_por_sucursal.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>

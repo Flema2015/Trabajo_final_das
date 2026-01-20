@@ -89,12 +89,14 @@
             disponibilidadDeProductosToolStripMenuItem.Name = "disponibilidadDeProductosToolStripMenuItem";
             disponibilidadDeProductosToolStripMenuItem.Size = new Size(274, 24);
             disponibilidadDeProductosToolStripMenuItem.Text = "Disponibilidad de Productos";
+            disponibilidadDeProductosToolStripMenuItem.Click += disponibilidadDeProductosToolStripMenuItem_Click;
             // 
             // categoriasDeProductosToolStripMenuItem
             // 
             categoriasDeProductosToolStripMenuItem.Name = "categoriasDeProductosToolStripMenuItem";
             categoriasDeProductosToolStripMenuItem.Size = new Size(274, 24);
             categoriasDeProductosToolStripMenuItem.Text = "Categorias de Productos";
+            categoriasDeProductosToolStripMenuItem.Click += categoriasDeProductosToolStripMenuItem_Click;
             // 
             // toolStripMenuItem2
             // 

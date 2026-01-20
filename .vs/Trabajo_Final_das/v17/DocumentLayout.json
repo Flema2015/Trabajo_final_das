@@ -3,56 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\hamui\\source\\repos\\Trabajo_Final_das\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{945631E3-AEA8-4137-8E29-46F033BB5A95}|Trabajo_Final_das\\Trabajo_Final_das.csproj|c:\\users\\hamui\\source\\repos\\trabajo_final_das\\trabajo_final_das\\models\\trabajofinaldascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{945631E3-AEA8-4137-8E29-46F033BB5A95}|Trabajo_Final_das\\Trabajo_Final_das.csproj|solutionrelative:trabajo_final_das\\models\\trabajofinaldascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{945631E3-AEA8-4137-8E29-46F033BB5A95}|Trabajo_Final_das\\Trabajo_Final_das.csproj|c:\\users\\hamui\\source\\repos\\trabajo_final_das\\trabajo_final_das\\view\\formulario_categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{945631E3-AEA8-4137-8E29-46F033BB5A95}|Trabajo_Final_das\\Trabajo_Final_das.csproj|solutionrelative:trabajo_final_das\\view\\formulario_categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{945631E3-AEA8-4137-8E29-46F033BB5A95}|Trabajo_Final_das\\Trabajo_Final_das.csproj|c:\\users\\hamui\\source\\repos\\trabajo_final_das\\trabajo_final_das\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{945631E3-AEA8-4137-8E29-46F033BB5A95}|Trabajo_Final_das\\Trabajo_Final_das.csproj|solutionrelative:trabajo_final_das\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{945631E3-AEA8-4137-8E29-46F033BB5A95}|Trabajo_Final_das\\Trabajo_Final_das.csproj|c:\\users\\hamui\\source\\repos\\trabajo_final_das\\trabajo_final_das\\controller\\ventas_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{945631E3-AEA8-4137-8E29-46F033BB5A95}|Trabajo_Final_das\\Trabajo_Final_das.csproj|solutionrelative:trabajo_final_das\\controller\\ventas_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{945631E3-AEA8-4137-8E29-46F033BB5A95}|Trabajo_Final_das\\Trabajo_Final_das.csproj|c:\\users\\hamui\\source\\repos\\trabajo_final_das\\trabajo_final_das\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{945631E3-AEA8-4137-8E29-46F033BB5A95}|Trabajo_Final_das\\Trabajo_Final_das.csproj|solutionrelative:trabajo_final_das\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{945631E3-AEA8-4137-8E29-46F033BB5A95}|Trabajo_Final_das\\Trabajo_Final_das.csproj|c:\\users\\hamui\\source\\repos\\trabajo_final_das\\trabajo_final_das\\controller\\producto_contoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{945631E3-AEA8-4137-8E29-46F033BB5A95}|Trabajo_Final_das\\Trabajo_Final_das.csproj|solutionrelative:trabajo_final_das\\controller\\producto_contoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{945631E3-AEA8-4137-8E29-46F033BB5A95}|Trabajo_Final_das\\Trabajo_Final_das.csproj|c:\\users\\hamui\\source\\repos\\trabajo_final_das\\trabajo_final_das\\view\\formulario_eliminar_modificar_productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{945631E3-AEA8-4137-8E29-46F033BB5A95}|Trabajo_Final_das\\Trabajo_Final_das.csproj|solutionrelative:trabajo_final_das\\view\\formulario_eliminar_modificar_productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{945631E3-AEA8-4137-8E29-46F033BB5A95}|Trabajo_Final_das\\Trabajo_Final_das.csproj|c:\\users\\hamui\\source\\repos\\trabajo_final_das\\trabajo_final_das\\view\\formulario_alta_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{945631E3-AEA8-4137-8E29-46F033BB5A95}|Trabajo_Final_das\\Trabajo_Final_das.csproj|solutionrelative:trabajo_final_das\\view\\formulario_alta_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{945631E3-AEA8-4137-8E29-46F033BB5A95}|Trabajo_Final_das\\Trabajo_Final_das.csproj|c:\\users\\hamui\\source\\repos\\trabajo_final_das\\trabajo_final_das\\view\\formulario_categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{945631E3-AEA8-4137-8E29-46F033BB5A95}|Trabajo_Final_das\\Trabajo_Final_das.csproj|solutionrelative:trabajo_final_das\\view\\formulario_categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{945631E3-AEA8-4137-8E29-46F033BB5A95}|Trabajo_Final_das\\Trabajo_Final_das.csproj|c:\\users\\hamui\\source\\repos\\trabajo_final_das\\trabajo_final_das\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{945631E3-AEA8-4137-8E29-46F033BB5A95}|Trabajo_Final_das\\Trabajo_Final_das.csproj|solutionrelative:trabajo_final_das\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{945631E3-AEA8-4137-8E29-46F033BB5A95}|Trabajo_Final_das\\Trabajo_Final_das.csproj|c:\\users\\hamui\\source\\repos\\trabajo_final_das\\trabajo_final_das\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{945631E3-AEA8-4137-8E29-46F033BB5A95}|Trabajo_Final_das\\Trabajo_Final_das.csproj|c:\\users\\hamui\\source\\repos\\trabajo_final_das\\trabajo_final_das\\view\\formulario_eliminar_modificar_productos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{945631E3-AEA8-4137-8E29-46F033BB5A95}|Trabajo_Final_das\\Trabajo_Final_das.csproj|solutionrelative:trabajo_final_das\\view\\formulario_eliminar_modificar_productos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{945631E3-AEA8-4137-8E29-46F033BB5A95}|Trabajo_Final_das\\Trabajo_Final_das.csproj|C:\\Users\\hamui\\source\\repos\\Trabajo_Final_das\\trabajo_final_das\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{945631E3-AEA8-4137-8E29-46F033BB5A95}|Trabajo_Final_das\\Trabajo_Final_das.csproj|solutionrelative:trabajo_final_das\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{945631E3-AEA8-4137-8E29-46F033BB5A95}|Trabajo_Final_das\\Trabajo_Final_das.csproj|c:\\users\\hamui\\source\\repos\\trabajo_final_das\\trabajo_final_das\\controller\\cliente_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{945631E3-AEA8-4137-8E29-46F033BB5A95}|Trabajo_Final_das\\Trabajo_Final_das.csproj|solutionrelative:trabajo_final_das\\controller\\cliente_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{945631E3-AEA8-4137-8E29-46F033BB5A95}|Trabajo_Final_das\\Trabajo_Final_das.csproj|c:\\users\\hamui\\source\\repos\\trabajo_final_das\\trabajo_final_das\\view\\productos_por_sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{945631E3-AEA8-4137-8E29-46F033BB5A95}|Trabajo_Final_das\\Trabajo_Final_das.csproj|solutionrelative:trabajo_final_das\\view\\productos_por_sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{945631E3-AEA8-4137-8E29-46F033BB5A95}|Trabajo_Final_das\\Trabajo_Final_das.csproj|c:\\users\\hamui\\source\\repos\\trabajo_final_das\\trabajo_final_das\\view\\formulario_eliminar_modificar_productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{945631E3-AEA8-4137-8E29-46F033BB5A95}|Trabajo_Final_das\\Trabajo_Final_das.csproj|solutionrelative:trabajo_final_das\\view\\formulario_eliminar_modificar_productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{945631E3-AEA8-4137-8E29-46F033BB5A95}|Trabajo_Final_das\\Trabajo_Final_das.csproj|c:\\users\\hamui\\source\\repos\\trabajo_final_das\\trabajo_final_das\\view\\formulario_alta_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{945631E3-AEA8-4137-8E29-46F033BB5A95}|Trabajo_Final_das\\Trabajo_Final_das.csproj|solutionrelative:trabajo_final_das\\view\\formulario_alta_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{945631E3-AEA8-4137-8E29-46F033BB5A95}|Trabajo_Final_das\\Trabajo_Final_das.csproj|c:\\users\\hamui\\source\\repos\\trabajo_final_das\\trabajo_final_das\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{945631E3-AEA8-4137-8E29-46F033BB5A95}|Trabajo_Final_das\\Trabajo_Final_das.csproj|solutionrelative:trabajo_final_das\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{945631E3-AEA8-4137-8E29-46F033BB5A95}|Trabajo_Final_das\\Trabajo_Final_das.csproj|c:\\users\\hamui\\source\\repos\\trabajo_final_das\\trabajo_final_das\\view\\productos_por_sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{945631E3-AEA8-4137-8E29-46F033BB5A95}|Trabajo_Final_das\\Trabajo_Final_das.csproj|solutionrelative:trabajo_final_das\\view\\productos_por_sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{945631E3-AEA8-4137-8E29-46F033BB5A95}|Trabajo_Final_das\\Trabajo_Final_das.csproj|c:\\users\\hamui\\source\\repos\\trabajo_final_das\\trabajo_final_das\\view\\formulario_alta_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{945631E3-AEA8-4137-8E29-46F033BB5A95}|Trabajo_Final_das\\Trabajo_Final_das.csproj|solutionrelative:trabajo_final_das\\view\\formulario_alta_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{945631E3-AEA8-4137-8E29-46F033BB5A95}|Trabajo_Final_das\\Trabajo_Final_das.csproj|c:\\users\\hamui\\source\\repos\\trabajo_final_das\\trabajo_final_das\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{945631E3-AEA8-4137-8E29-46F033BB5A95}|Trabajo_Final_das\\Trabajo_Final_das.csproj|solutionrelative:trabajo_final_das\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,109 +46,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Venta.cs",
-              "DocumentMoniker": "C:\\Users\\hamui\\source\\repos\\Trabajo_Final_das\\Trabajo_Final_das\\Models\\Venta.cs",
-              "RelativeDocumentMoniker": "Trabajo_Final_das\\Models\\Venta.cs",
-              "ToolTip": "C:\\Users\\hamui\\source\\repos\\Trabajo_Final_das\\Trabajo_Final_das\\Models\\Venta.cs",
-              "RelativeToolTip": "Trabajo_Final_das\\Models\\Venta.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T21:11:09.099Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Ventas_controller.cs",
-              "DocumentMoniker": "C:\\Users\\hamui\\source\\repos\\Trabajo_Final_das\\Trabajo_Final_das\\Controller\\Ventas_controller.cs",
-              "RelativeDocumentMoniker": "Trabajo_Final_das\\Controller\\Ventas_controller.cs",
-              "ToolTip": "C:\\Users\\hamui\\source\\repos\\Trabajo_Final_das\\Trabajo_Final_das\\Controller\\Ventas_controller.cs",
-              "RelativeToolTip": "Trabajo_Final_das\\Controller\\Ventas_controller.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T21:02:34.622Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\hamui\\source\\repos\\Trabajo_Final_das\\Trabajo_Final_das\\Models\\Producto.cs",
               "RelativeDocumentMoniker": "Trabajo_Final_das\\Models\\Producto.cs",
               "ToolTip": "C:\\Users\\hamui\\source\\repos\\Trabajo_Final_das\\Trabajo_Final_das\\Models\\Producto.cs",
               "RelativeToolTip": "Trabajo_Final_das\\Models\\Producto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-15T21:08:15.254Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TrabajoFinalDasContext.cs",
-              "DocumentMoniker": "C:\\Users\\hamui\\source\\repos\\Trabajo_Final_das\\Trabajo_Final_das\\Models\\TrabajoFinalDasContext.cs",
-              "RelativeDocumentMoniker": "Trabajo_Final_das\\Models\\TrabajoFinalDasContext.cs",
-              "ToolTip": "C:\\Users\\hamui\\source\\repos\\Trabajo_Final_das\\Trabajo_Final_das\\Models\\TrabajoFinalDasContext.cs",
-              "RelativeToolTip": "Trabajo_Final_das\\Models\\TrabajoFinalDasContext.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAIAwwFgAAAAmAAAAAAAAAA==",
+              "Title": "Formulario_Categorias.cs",
+              "DocumentMoniker": "C:\\Users\\hamui\\source\\repos\\Trabajo_Final_das\\Trabajo_Final_das\\View\\Formulario_Categorias.cs",
+              "RelativeDocumentMoniker": "Trabajo_Final_das\\View\\Formulario_Categorias.cs",
+              "ToolTip": "C:\\Users\\hamui\\source\\repos\\Trabajo_Final_das\\Trabajo_Final_das\\View\\Formulario_Categorias.cs",
+              "RelativeToolTip": "Trabajo_Final_das\\View\\Formulario_Categorias.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBMAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T21:02:36.425Z",
+              "WhenOpened": "2026-01-19T23:28:37.68Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Producto_contoller.cs",
-              "DocumentMoniker": "C:\\Users\\hamui\\source\\repos\\Trabajo_Final_das\\Trabajo_Final_das\\Controller\\Producto_contoller.cs",
-              "RelativeDocumentMoniker": "Trabajo_Final_das\\Controller\\Producto_contoller.cs",
-              "ToolTip": "C:\\Users\\hamui\\source\\repos\\Trabajo_Final_das\\Trabajo_Final_das\\Controller\\Producto_contoller.cs",
-              "RelativeToolTip": "Trabajo_Final_das\\Controller\\Producto_contoller.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAhwDAAAABIAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\hamui\\source\\repos\\Trabajo_Final_das\\Trabajo_Final_das\\Form1.cs",
+              "RelativeDocumentMoniker": "Trabajo_Final_das\\Form1.cs",
+              "ToolTip": "C:\\Users\\hamui\\source\\repos\\Trabajo_Final_das\\Trabajo_Final_das\\Form1.cs",
+              "RelativeToolTip": "Trabajo_Final_das\\Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwDEAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T20:41:02.074Z",
+              "WhenOpened": "2026-01-19T23:22:09.642Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Formulario_Eliminar_Modificar_productos.cs",
-              "DocumentMoniker": "C:\\Users\\hamui\\source\\repos\\Trabajo_Final_das\\Trabajo_Final_das\\View\\Formulario_Eliminar_Modificar_productos.cs",
-              "RelativeDocumentMoniker": "Trabajo_Final_das\\View\\Formulario_Eliminar_Modificar_productos.cs",
-              "ToolTip": "C:\\Users\\hamui\\source\\repos\\Trabajo_Final_das\\Trabajo_Final_das\\View\\Formulario_Eliminar_Modificar_productos.cs",
-              "RelativeToolTip": "Trabajo_Final_das\\View\\Formulario_Eliminar_Modificar_productos.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAhwHsAAAA7AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Formulario_Categorias.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hamui\\source\\repos\\Trabajo_Final_das\\Trabajo_Final_das\\View\\Formulario_Categorias.cs",
+              "RelativeDocumentMoniker": "Trabajo_Final_das\\View\\Formulario_Categorias.cs",
+              "ToolTip": "C:\\Users\\hamui\\source\\repos\\Trabajo_Final_das\\Trabajo_Final_das\\View\\Formulario_Categorias.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Trabajo_Final_das\\View\\Formulario_Categorias.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T20:30:39.169Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Formulario_Eliminar_Modificar_productos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\hamui\\source\\repos\\Trabajo_Final_das\\Trabajo_Final_das\\View\\Formulario_Eliminar_Modificar_productos.cs",
-              "RelativeDocumentMoniker": "Trabajo_Final_das\\View\\Formulario_Eliminar_Modificar_productos.cs",
-              "ToolTip": "C:\\Users\\hamui\\source\\repos\\Trabajo_Final_das\\Trabajo_Final_das\\View\\Formulario_Eliminar_Modificar_productos.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Trabajo_Final_das\\View\\Formulario_Eliminar_Modificar_productos.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T20:29:19.2Z",
+              "WhenOpened": "2026-01-19T23:21:53.414Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hamui\\source\\repos\\Trabajo_Final_das\\Trabajo_Final_das\\Program.cs",
-              "RelativeDocumentMoniker": "Trabajo_Final_das\\Program.cs",
-              "ToolTip": "C:\\Users\\hamui\\source\\repos\\Trabajo_Final_das\\Trabajo_Final_das\\Program.cs",
-              "RelativeToolTip": "Trabajo_Final_das\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Formulario_Eliminar_Modificar_productos.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hamui\\source\\repos\\Trabajo_Final_das\\Trabajo_Final_das\\View\\Formulario_Eliminar_Modificar_productos.Designer.cs",
+              "RelativeDocumentMoniker": "Trabajo_Final_das\\View\\Formulario_Eliminar_Modificar_productos.Designer.cs",
+              "ToolTip": "C:\\Users\\hamui\\source\\repos\\Trabajo_Final_das\\Trabajo_Final_das\\View\\Formulario_Eliminar_Modificar_productos.Designer.cs",
+              "RelativeToolTip": "Trabajo_Final_das\\View\\Formulario_Eliminar_Modificar_productos.Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T20:00:02.818Z",
+              "WhenOpened": "2026-01-19T23:17:14.781Z",
               "EditorCaption": ""
             },
             {
@@ -175,40 +121,14 @@
               "RelativeDocumentMoniker": "Trabajo_Final_das\\View\\Formulario_alta_producto.cs",
               "ToolTip": "C:\\Users\\hamui\\source\\repos\\Trabajo_Final_das\\Trabajo_Final_das\\View\\Formulario_alta_producto.cs",
               "RelativeToolTip": "Trabajo_Final_das\\View\\Formulario_alta_producto.cs",
-              "ViewState": "AgIAAJcAAAAAAAAAAIAwwK4AAABRAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAADwv0sAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-15T19:55:45.746Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Cliente_controller.cs",
-              "DocumentMoniker": "C:\\Users\\hamui\\source\\repos\\Trabajo_Final_das\\Trabajo_Final_das\\Controller\\Cliente_controller.cs",
-              "RelativeDocumentMoniker": "Trabajo_Final_das\\Controller\\Cliente_controller.cs",
-              "ToolTip": "C:\\Users\\hamui\\source\\repos\\Trabajo_Final_das\\Trabajo_Final_das\\Controller\\Cliente_controller.cs",
-              "RelativeToolTip": "Trabajo_Final_das\\Controller\\Cliente_controller.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T20:27:36.397Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\hamui\\source\\repos\\Trabajo_Final_das\\Trabajo_Final_das\\Form1.cs",
-              "RelativeDocumentMoniker": "Trabajo_Final_das\\Form1.cs",
-              "ToolTip": "C:\\Users\\hamui\\source\\repos\\Trabajo_Final_das\\Trabajo_Final_das\\Form1.cs",
-              "RelativeToolTip": "Trabajo_Final_das\\Form1.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAUwCEAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T19:54:27.187Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\hamui\\source\\repos\\Trabajo_Final_das\\Trabajo_Final_das\\Form1.cs",
               "RelativeDocumentMoniker": "Trabajo_Final_das\\Form1.cs",
@@ -220,15 +140,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Formulario_alta_producto.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\hamui\\source\\repos\\Trabajo_Final_das\\Trabajo_Final_das\\View\\Formulario_alta_producto.cs",
-              "RelativeDocumentMoniker": "Trabajo_Final_das\\View\\Formulario_alta_producto.cs",
-              "ToolTip": "C:\\Users\\hamui\\source\\repos\\Trabajo_Final_das\\Trabajo_Final_das\\View\\Formulario_alta_producto.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Trabajo_Final_das\\View\\Formulario_alta_producto.cs [Dise\u00F1o]",
+              "DocumentIndex": 5,
+              "Title": "Productos_por_sucursal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hamui\\source\\repos\\Trabajo_Final_das\\Trabajo_Final_das\\View\\Productos_por_sucursal.cs",
+              "RelativeDocumentMoniker": "Trabajo_Final_das\\View\\Productos_por_sucursal.cs",
+              "ToolTip": "C:\\Users\\hamui\\source\\repos\\Trabajo_Final_das\\Trabajo_Final_das\\View\\Productos_por_sucursal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Trabajo_Final_das\\View\\Productos_por_sucursal.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T19:54:05.746Z",
+              "WhenOpened": "2026-01-19T22:03:28.869Z",
               "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Productos_por_sucursal.cs",
+              "DocumentMoniker": "C:\\Users\\hamui\\source\\repos\\Trabajo_Final_das\\Trabajo_Final_das\\View\\Productos_por_sucursal.cs",
+              "RelativeDocumentMoniker": "Trabajo_Final_das\\View\\Productos_por_sucursal.cs",
+              "ToolTip": "C:\\Users\\hamui\\source\\repos\\Trabajo_Final_das\\Trabajo_Final_das\\View\\Productos_por_sucursal.cs",
+              "RelativeToolTip": "Trabajo_Final_das\\View\\Productos_por_sucursal.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAADwv3YAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T22:06:53.629Z",
+              "EditorCaption": ""
             }
           ]
         }

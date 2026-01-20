@@ -35,5 +35,19 @@ namespace Trabajo_Final_das
             frm.MdiParent = this;
             frm.Show();
         }
+
+        private void disponibilidadDeProductosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Productos_por_sucursal frm = new Productos_por_sucursal();
+            frm.MdiParent = this;
+            frm.Show();
+        }
+
+        private void categoriasDeProductosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Formulario_Categorias frm = new Formulario_Categorias();
+            frm.MdiParent = this;
+            frm.Show();
+        }
     }
 }

@@ -17,5 +17,7 @@ public partial class Producto
 
     public int? CantidadStock { get; set; }
 
+    public string? Sucursal { get; set; }
+
     public virtual ICollection<Venta> Venta { get; set; } = new List<Venta>();
 }

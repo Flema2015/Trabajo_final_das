@@ -53,6 +53,9 @@ namespace Trabajo_Final_das
         private Label lblCategoria;
         private ComboBox cboCategoria; // Usamos combo aunque sea texto, es más prolijo
 
+        private Label lblSucursal;
+        private ComboBox cboSucursal;
+
         private Button btnGuardar;
         private Button btnCancelar;
 
@@ -70,6 +73,7 @@ namespace Trabajo_Final_das
                 numPrecio.Value = (decimal)producto.Precio;
                 numStock.Value = (decimal)producto.CantidadStock;
                 cboCategoria.Text = producto.Categoria;
+                cboSucursal.Text = producto.Sucursal;
             }
         }
 
@@ -130,6 +134,20 @@ namespace Trabajo_Final_das
             this.Controls.Add(lblCategoria);
             this.Controls.Add(cboCategoria);
 
+            y += salto;
+            lblSucursal = new Label() { Text = "Sucursal:", Location = new Point(labelX, y), AutoSize = true };
+            cboSucursal = new ComboBox() { Location = new Point(controlX, y), Width = anchoControl, DropDownStyle = ComboBoxStyle.DropDownList };
+
+
+            cboSucursal.Items.AddRange(new object[] { "Casa Central", "Sucursal Norte", "Sucursal Sur" });
+            cboSucursal.SelectedIndex = 0; // Seleccionar la primera por defecto
+
+
+            this.Controls.Add(lblSucursal);
+            this.Controls.Add(cboSucursal);
+
+
+
             y += salto * 2; // Doble salto para los botones
 
             // --- BOTONES ---
@@ -164,7 +182,8 @@ namespace Trabajo_Final_das
                     Descripcion = txtDescripcion.Text,
                     Precio = numPrecio.Value,
                     CantidadStock = (int)numStock.Value, // Convertimos decimal a int
-                    Categoria = cboCategoria.Text // Guardamos el texto seleccionado
+                    Categoria = cboCategoria.Text, // Guardamos el texto seleccionado
+                    Sucursal = cboSucursal.Text,
                 };
                 if (codigo_producto_a_editar == null)
                 {

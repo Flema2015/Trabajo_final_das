@@ -54,6 +54,7 @@ namespace Trabajo_Final_das.Controller
                 producto_a_modificar.Categoria = producto.Categoria;
                 producto_a_modificar.Precio = producto.Precio;
                 producto_a_modificar.CantidadStock = producto.CantidadStock;
+                producto_a_modificar.Sucursal = producto.Sucursal;
                 contexto.SaveChanges();
             }
         }
