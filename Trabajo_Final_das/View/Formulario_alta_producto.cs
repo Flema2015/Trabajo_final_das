@@ -14,9 +14,9 @@ namespace Trabajo_Final_das
 {
     public partial class Formulario_alta_producto : Form
     {
-        private int? codigo_producto_a_editar = null;
+        private string codigo_producto_a_editar = null;
 
-        public Formulario_alta_producto(int codigo_producto)
+        public Formulario_alta_producto(string codigo_producto) : this()
         {
             codigo_producto_a_editar = codigo_producto;
             Cargar_datos();
@@ -64,7 +64,7 @@ namespace Trabajo_Final_das
 
         public void Cargar_datos()
         {
-            Producto producto = controlador.Obtener_productos_por_id(codigo_producto_a_editar.Value);
+            Producto producto = controlador.Obtener_productos_por_id(codigo_producto_a_editar);
             if (producto != null)
             {
                 txtCodigo.Text = producto.Codigo_producto.ToString();
@@ -191,7 +191,7 @@ namespace Trabajo_Final_das
                 }
                 else
                 {
-                    p.Codigo_producto = codigo_producto_a_editar.Value.ToString();
+                    p.Codigo_producto = codigo_producto_a_editar;
                     controlador.Modificar_producto(p);
                 }
 

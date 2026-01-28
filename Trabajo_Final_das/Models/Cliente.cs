@@ -15,5 +15,7 @@ public partial class Cliente
 
     public virtual ICollection<Venta> Venta { get; set; } = new List<Venta>();
 
+    public string Nombre_completo => $"{NombreCliente} {ApellidoCliente}";
+
 
 }

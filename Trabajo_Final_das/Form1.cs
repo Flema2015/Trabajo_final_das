@@ -49,5 +49,52 @@ namespace Trabajo_Final_das
             frm.MdiParent = this;
             frm.Show();
         }
+
+        private void registrarClientesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Formulario_Registrar_clientes frm = new Formulario_Registrar_clientes();
+            frm.MdiParent = this;
+            frm.Show();
+        }
+
+        private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
+
+        private void modificarClienteToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Formulario_modificar_cliente frm = new Formulario_modificar_cliente();
+            frm.MdiParent = this;
+            frm.Show();
+        }
+
+        private void historialClientesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Formulario_historial_cliente frm = new Formulario_historial_cliente();
+            frm.MdiParent = this;
+            frm.Show();
+        }
+
+        private void generarFacturasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Formulario_generar_factura frm = new Formulario_generar_factura();
+            frm.MdiParent = this;
+            frm.Show();
+        }
+
+        private void reportesDeVentasPorPeriodoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Formulario_reportes_de_ventas frm = new Formulario_reportes_de_ventas();
+            frm.MdiParent = this;
+            frm.Show();
+        }
+
+        private void prodcutosMásVendidosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Formulario_productos_mas_vendidos frm = new Formulario_productos_mas_vendidos();
+            frm.MdiParent = this;
+            frm.Show();
+        }
     }
 }

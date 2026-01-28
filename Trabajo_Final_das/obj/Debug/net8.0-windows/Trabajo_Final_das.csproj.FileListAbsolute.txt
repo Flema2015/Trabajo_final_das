@@ -133,3 +133,9 @@ C:\Users\hamui\source\repos\Trabajo_Final_das\Trabajo_Final_das\obj\Debug\net8.0
 C:\Users\hamui\source\repos\Trabajo_Final_das\Trabajo_Final_das\obj\Debug\net8.0-windows\Trabajo_Final_das.View.Formulario_Eliminar_Modificar_productos.resources
 C:\Users\hamui\source\repos\Trabajo_Final_das\Trabajo_Final_das\obj\Debug\net8.0-windows\Trabajo_Final_das.View.Productos_por_sucursal.resources
 C:\Users\hamui\source\repos\Trabajo_Final_das\Trabajo_Final_das\obj\Debug\net8.0-windows\Trabajo_Final_das.View.Formulario_Categorias.resources
+C:\Users\hamui\source\repos\Trabajo_Final_das\Trabajo_Final_das\obj\Debug\net8.0-windows\Trabajo_Final_das.View.Formulario_Registrar_clientes.resources
+C:\Users\hamui\source\repos\Trabajo_Final_das\Trabajo_Final_das\obj\Debug\net8.0-windows\Trabajo_Final_das.View.Formulario_modificar_cliente.resources
+C:\Users\hamui\source\repos\Trabajo_Final_das\Trabajo_Final_das\obj\Debug\net8.0-windows\Trabajo_Final_das.View.Formulario_historial_cliente.resources
+C:\Users\hamui\source\repos\Trabajo_Final_das\Trabajo_Final_das\obj\Debug\net8.0-windows\Trabajo_Final_das.View.Formulario_generar_factura.resources
+C:\Users\hamui\source\repos\Trabajo_Final_das\Trabajo_Final_das\obj\Debug\net8.0-windows\Trabajo_Final_das.View.Formulario_reportes_de_ventas.resources
+C:\Users\hamui\source\repos\Trabajo_Final_das\Trabajo_Final_das\obj\Debug\net8.0-windows\Trabajo_Final_das.View.Formulario_productos_mas_vendidos.resources

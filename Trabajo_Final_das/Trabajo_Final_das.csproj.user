@@ -13,6 +13,24 @@
     <Compile Update="View\Formulario_Eliminar_Modificar_productos.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="View\Formulario_generar_factura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Formulario_historial_cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Formulario_modificar_cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Formulario_productos_mas_vendidos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Formulario_Registrar_clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Formulario_reportes_de_ventas.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="View\Productos_por_sucursal.cs">
       <SubType>Form</SubType>
     </Compile>

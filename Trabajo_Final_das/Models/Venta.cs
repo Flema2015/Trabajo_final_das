@@ -9,7 +9,7 @@ public partial class Venta
 
     public DateTime? FechaVenta { get; set; }
 
-    public int? MetodosDePago { get; set; }
+    public string MetodosDePago { get; set; }
 
     public string codigo_producto { get; set; }
 
@@ -22,4 +22,6 @@ public partial class Venta
     public string Sucursal { get; set; }
 
     public decimal Total_final { get; set; }
+
+    public int stock_venta { get; set;  }
 }

@@ -17,14 +17,29 @@ namespace Trabajo_Final_das.Controller
             contexto = new TrabajoFinalDasContext();
         }
 
-        public List<Cliente> Obtener_clientes()
+        public Cliente Obtener_clientes_por_id(int id)
+        {
+            return contexto.Clientes.Find(id);
+        }
+
+        public List<Cliente> Obtener_todos()
         {
             return contexto.Clientes.ToList();
         }
-
         public void Crear_cliente(Cliente cliente)
         {
-            contexto.Clientes.Add(cliente);
+            if (cliente.IdCliente == 0)
+            {
+                contexto.Clientes.Add(cliente);
+            }
+            else
+            {
+                if (cliente.IdCliente != null)
+                {
+                    Modificar_cliente(cliente);
+                }
+            }
+                
             contexto.SaveChanges();
         }
 
@@ -42,9 +57,18 @@ namespace Trabajo_Final_das.Controller
                 cliente_a_modificar.NombreCliente = cliente.NombreCliente;
                 cliente_a_modificar.ApellidoCliente = cliente.ApellidoCliente;
                 cliente_a_modificar.TipoCliente = cliente.TipoCliente;
+                contexto.SaveChanges();
             }
         }
+        public decimal ObtenerTotalGastadoPorCliente(int idCliente)
+        {
+            
+            var total = contexto.Ventas
+                               .Where(v => v.IdCliente == idCliente)
+                               .Sum(v => (decimal?)v.Total_final); 
 
-       
+            return total.GetValueOrDefault(); // Si es null devuelve 0
+        }
+
     }
 }

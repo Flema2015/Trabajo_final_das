@@ -108,8 +108,6 @@ namespace Trabajo_Final_das.View
             dgvProductos.DataSource = null;
             dgvProductos.DataSource = lista;
 
-            // Ocultar columnas técnicas si es necesario
-            // if (dgvProductos.Columns["Id"] != null) dgvProductos.Columns["Id"].Visible = false;
         }
 
         // Método simple para buscar (filtra en memoria)
@@ -137,8 +135,8 @@ namespace Trabajo_Final_das.View
                 return;
             }
 
-            // 1. Obtenemos el ID seleccionado
-            int idSeleccionado = (int)dgvProductos.SelectedRows[0].Cells["Id"].Value;
+            // 1. Obtenemos el ID seleccionados
+            string idSeleccionado = (string)dgvProductos.SelectedRows[0].Cells["Codigo_producto"].Value;
 
             if (_modo == "EDITAR")
             {
@@ -149,6 +147,7 @@ namespace Trabajo_Final_das.View
                 frmEditar.Show();
 
                 // Cerramos esta ventana de búsqueda porque ya cumplió su función
+                Cargar_Grilla();
                 this.Close();
             }
             else if (_modo == "BORRAR")
